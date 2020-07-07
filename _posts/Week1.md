@@ -1,7 +1,4 @@
 ---
-published: false
----
----
 layout: post
 title: Week 1
 subtitle: 1주차 과제
